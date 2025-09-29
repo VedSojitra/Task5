@@ -5,7 +5,7 @@
 A simple responsive landing page for Samsung phones built using **HTML & CSS**.  
 It includes a header, hero section, and footer, with mobile-friendly navigation.
 
-🔗 Live Site: 
+🔗 Live Site: https://vedsojitra.github.io/Task5/
 
 ## 🚀 Features
 - Clean Samsung-inspired design  
